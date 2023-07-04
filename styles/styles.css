@@ -1,8 +1,19 @@
+*{
+    margin: 0;
+}
 div{
     background-color: blueviolet;
     color: aliceblue;
+    margin: 10px;
+    text-align: center;
 }
 img{
     height: 200px;
     width: 200px;
+}
+a{
+    text-decoration: none;
+    border:2px solid blueviolet ;
+    /* border-radius: 10px; */
+    box-shadow: 5px 5px 5px;
 }
